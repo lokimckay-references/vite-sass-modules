@@ -10,6 +10,8 @@ npm i -D @types/node
 npm i -D sass
 
 ( add src/**/* files )
+( update vite.config.ts )
+( update tsconfig.json )
 
 npx vite build --watch
 ```
